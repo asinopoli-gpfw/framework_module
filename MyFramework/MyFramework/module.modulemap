@@ -1,0 +1,5 @@
+module MyFramework_Internal {
+    header "Folder1/baz.h"
+    header "Folder1/Folder2/bar.h"
+    export *
+}
